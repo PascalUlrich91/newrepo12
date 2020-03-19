@@ -46,3 +46,4 @@
 [2020-03-19 17:50:23.9930] - DEBUG - [Save session: 7] Completed waitUsingRecursiveRunLoop
 [2020-03-19 17:50:23.9960] - INFO - Marking changed: false
 [2020-03-19 17:50:24.0090] - DEBUG - [Save session: 7] Completed super.save
+[2020-03-19 17:57:21.7590] - INFO - Backing up to /Users/pascalulrich/Library/Mobile Documents/com~apple~CloudDocs/BTS/Interface Development/git-folder/newrepofolder/newframerfile12.framerfx/.backups/2020-03-19 17.57.21.zip
