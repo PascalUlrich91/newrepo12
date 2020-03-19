@@ -252,10 +252,10 @@ exports.__framer__ = packageInfo
 /*!**********************!*\
   !*** ./package.json ***!
   \**********************/
-/*! exports provided: framer, peerDependencies, default */
+/*! exports provided: framer, peerDependencies, author, default */
 /***/ (function(module) {
 
-module.exports = JSON.parse("{\"framer\":{\"id\":\"0073aa5b-224b-4414-9fc1-e8599c59bc10\"},\"peerDependencies\":{\"framer\":\"^1\"}}");
+module.exports = JSON.parse("{\"framer\":{\"id\":\"0073aa5b-224b-4414-9fc1-e8599c59bc10\"},\"peerDependencies\":{\"framer\":\"^1\"},\"author\":\"Pascal Ulrich\"}");
 
 /***/ }),
 
