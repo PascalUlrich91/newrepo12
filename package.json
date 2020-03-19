@@ -4,5 +4,6 @@
 	},
 	"peerDependencies": {
 		"framer": "^1"
-	}
+	},
+	"author": "Pascal Ulrich"
 }

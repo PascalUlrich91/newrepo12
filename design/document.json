@@ -354,73 +354,6 @@
                 "widthType" : 0
               },
               {
-                "__class" : "FrameNode",
-                "aspectRatio" : 1.499852114758947,
-                "blendingEnabled" : 0,
-                "blendingMode" : "normal",
-                "bottom" : -19,
-                "centerAnchorX" : 0.51312335958005251,
-                "centerAnchorY" : 0.5535714285714286,
-                "children" : [
-
-                ],
-                "clip" : false,
-                "codeOverrideEnabled" : false,
-                "constraintsLocked" : false,
-                "deviceType" : null,
-                "exportOptions" : [
-
-                ],
-                "fillColor" : "rgba(255,255,255,1)",
-                "fillEnabled" : true,
-                "fillImage" : "onPdf8gFTWdmYbbLsdB37n4scM.jpg",
-                "fillImageOriginalName" : "toa-heftiba-a-w7wDtNWmo-unsplash.jpg",
-                "fillImagePixelHeight" : 3381,
-                "fillImagePixelWidth" : 5071,
-                "fillImageResize" : "fill",
-                "fillType" : "image",
-                "guidesX" : [
-
-                ],
-                "guidesY" : [
-
-                ],
-                "height" : 238,
-                "heightType" : 0,
-                "id" : "kqE4xs7Kn",
-                "intrinsicHeight" : 1690.5,
-                "intrinsicWidth" : 2535.5,
-                "isExternalMaster" : null,
-                "isMaster" : false,
-                "isTarget" : false,
-                "left" : 17,
-                "locked" : false,
-                "name" : "toa_heftiba_a_w7wDtNWmo_unsplash",
-                "navigationTarget" : null,
-                "navigationTransition" : "push",
-                "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
-                "navigationTransitionDirection" : "left",
-                "opacity" : 1,
-                "originalFilename" : "toa-heftiba-a-w7wDtNWmo-unsplash.jpg",
-                "originalid" : null,
-                "parentid" : "udSLngifM",
-                "previewSettings" : null,
-                "radius" : 0,
-                "radiusBottomLeft" : 0,
-                "radiusBottomRight" : 0,
-                "radiusIsRelative" : false,
-                "radiusPerCorner" : false,
-                "radiusTopLeft" : 0,
-                "radiusTopRight" : 0,
-                "replicaInfo" : null,
-                "right" : 7,
-                "rotation" : 0,
-                "top" : null,
-                "visible" : true,
-                "width" : 357,
-                "widthType" : 0
-              },
-              {
                 "__class" : "SVGNode",
                 "aspectRatio" : null,
                 "blendingEnabled" : 0,
@@ -537,7 +470,7 @@
                 "exportOptions" : [
 
                 ],
-                "fillColor" : "hsl(0, 0%, 92%)",
+                "fillColor" : "hsl(0, 18%, 21%)",
                 "fillEnabled" : true,
                 "fillImage" : null,
                 "fillImageOriginalName" : null,
@@ -721,7 +654,7 @@
             "brightness" : 100,
             "brightnessEnabled" : 0,
             "centerAnchorX" : 0.4975669099756691,
-            "centerAnchorY" : 0.70802919708029199,
+            "centerAnchorY" : 0.64598540145985406,
             "children" : [
 
             ],
@@ -803,10 +736,10 @@
                 "@framer\/graz.android-kit-CW2BfBxtN" : {
                   "bottom" : null,
                   "centerAnchorX" : 0.4975669099756691,
-                  "centerAnchorY" : 0.70802919708029199,
+                  "centerAnchorY" : 0.64598540145985406,
                   "left" : 14,
                   "right" : null,
-                  "top" : 403,
+                  "top" : 352,
                   "width" : 381
                 },
                 "@framer\/graz.android-kit-CW2BfBxtN-BQ9DjJ4r6" : {
@@ -844,7 +777,7 @@
             "saturateEnabled" : 0,
             "sepia" : 0,
             "sepiaEnabled" : 0,
-            "top" : 403,
+            "top" : 352,
             "visible" : true,
             "width" : 381,
             "widthType" : 0
