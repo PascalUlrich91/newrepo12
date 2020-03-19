@@ -653,8 +653,8 @@
             ],
             "brightness" : 100,
             "brightnessEnabled" : 0,
-            "centerAnchorX" : 0.4975669099756691,
-            "centerAnchorY" : 0.70802919708029199,
+            "centerAnchorX" : 0.48783454987834551,
+            "centerAnchorY" : 0.64598540145985406,
             "children" : [
 
             ],
@@ -712,7 +712,7 @@
             "isExternalMaster" : null,
             "isMaster" : false,
             "isTarget" : false,
-            "left" : 14,
+            "left" : 10,
             "locked" : false,
             "name" : "grids\/grid-uniform",
             "navigationTarget" : null,
@@ -735,11 +735,11 @@
               "overrides" : {
                 "@framer\/graz.android-kit-CW2BfBxtN" : {
                   "bottom" : null,
-                  "centerAnchorX" : 0.4975669099756691,
-                  "centerAnchorY" : 0.70802919708029199,
-                  "left" : 14,
+                  "centerAnchorX" : 0.48783454987834551,
+                  "centerAnchorY" : 0.64598540145985406,
+                  "left" : 10,
                   "right" : null,
-                  "top" : 403,
+                  "top" : 352,
                   "width" : 381
                 },
                 "@framer\/graz.android-kit-CW2BfBxtN-BQ9DjJ4r6" : {
@@ -777,7 +777,7 @@
             "saturateEnabled" : 0,
             "sepia" : 0,
             "sepiaEnabled" : 0,
-            "top" : 403,
+            "top" : 352,
             "visible" : true,
             "width" : 381,
             "widthType" : 0

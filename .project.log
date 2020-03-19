@@ -60,3 +60,54 @@
 [2020-03-19 18:12:01.9550] - DEBUG - [Save session: 9] Completed waitUsingRecursiveRunLoop
 [2020-03-19 18:12:01.9570] - INFO - Marking changed: false
 [2020-03-19 18:12:01.9600] - DEBUG - [Save session: 9] Completed super.save
+[2020-03-19 18:17:21.8560] - INFO - Backing up to /Users/pascalulrich/Library/Mobile Documents/com~apple~CloudDocs/BTS/Interface Development/git-folder/newrepofolder/newframerfile12.framerfx/.backups/2020-03-19 18.17.21.zip
+[2020-03-19 18:26:20.3870] - DEBUG - [Save session: 10] Started, operation: autosaveInPlaceOperation
+[2020-03-19 18:26:20.3870] - DEBUG - [Save session: 10] Before container.writeChanges
+[2020-03-19 18:26:20.3870] - DEBUG - [Save session: 10] Before waitUsingRecursiveRunLoop
+[2020-03-19 18:26:20.4960] - DEBUG - [Save session: 10] Completed container.writeChanges
+[2020-03-19 18:26:20.4960] - DEBUG - [Save session: 10] Completed waitUsingRecursiveRunLoop
+[2020-03-19 18:26:20.5060] - DEBUG - [Save session: 10] Completed super.save
+[2020-03-19 18:26:20.5080] - DEBUG - [Save session: 11] Started, operation: autosaveInPlaceOperation
+[2020-03-19 18:26:20.5080] - DEBUG - [Save session: 11] Before container.writeChanges
+[2020-03-19 18:26:20.5080] - DEBUG - [Save session: 11] Before waitUsingRecursiveRunLoop
+[2020-03-19 18:26:20.5970] - DEBUG - [Save session: 11] Completed container.writeChanges
+[2020-03-19 18:26:20.5970] - DEBUG - [Save session: 11] Completed waitUsingRecursiveRunLoop
+[2020-03-19 18:26:21.0270] - DEBUG - [Save session: 11] Completed super.save
+[2020-03-19 18:26:21.4000] - DEBUG - [Save session: 12] Started, operation: autosaveInPlaceOperation
+[2020-03-19 18:26:21.4000] - DEBUG - [Save session: 12] Before container.writeChanges
+[2020-03-19 18:26:21.4000] - DEBUG - [Save session: 12] Before waitUsingRecursiveRunLoop
+[2020-03-19 18:26:21.4750] - DEBUG - [Save session: 12] Completed container.writeChanges
+[2020-03-19 18:26:21.4750] - DEBUG - [Save session: 12] Completed waitUsingRecursiveRunLoop
+[2020-03-19 18:26:21.5340] - DEBUG - [Save session: 12] Completed super.save
+[2020-03-19 18:26:21.7080] - DEBUG - [Save session: 13] Started, operation: autosaveInPlaceOperation
+[2020-03-19 18:26:21.7080] - DEBUG - [Save session: 13] Before container.writeChanges
+[2020-03-19 18:26:21.7080] - DEBUG - [Save session: 13] Before waitUsingRecursiveRunLoop
+[2020-03-19 18:26:21.7930] - DEBUG - [Save session: 13] Completed container.writeChanges
+[2020-03-19 18:26:21.7930] - DEBUG - [Save session: 13] Completed waitUsingRecursiveRunLoop
+[2020-03-19 18:26:22.0540] - DEBUG - [Save session: 13] Completed super.save
+[2020-03-19 18:26:30.9010] - DEBUG - [Save session: 14] Started, operation: saveOperation
+[2020-03-19 18:26:30.9010] - DEBUG - [Save session: 14] Before container.writeChanges
+[2020-03-19 18:26:30.9020] - DEBUG - [Save session: 14] Before waitUsingRecursiveRunLoop
+[2020-03-19 18:26:30.9100] - DEBUG - [Save session: 14] Completed container.writeChanges
+[2020-03-19 18:26:30.9100] - DEBUG - [Save session: 14] Completed waitUsingRecursiveRunLoop
+[2020-03-19 18:26:30.9130] - INFO - Marking changed: false
+[2020-03-19 18:26:30.9200] - DEBUG - [Save session: 14] Completed super.save
+[2020-03-19 18:26:35.2990] - DEBUG - [Save session: 15] Started, operation: autosaveInPlaceOperation
+[2020-03-19 18:26:35.2990] - DEBUG - [Save session: 15] Before container.writeChanges
+[2020-03-19 18:26:35.2990] - DEBUG - [Save session: 15] Before waitUsingRecursiveRunLoop
+[2020-03-19 18:26:35.3940] - DEBUG - [Save session: 15] Completed container.writeChanges
+[2020-03-19 18:26:35.3940] - DEBUG - [Save session: 15] Completed waitUsingRecursiveRunLoop
+[2020-03-19 18:26:35.4010] - DEBUG - [Save session: 15] Completed super.save
+[2020-03-19 18:26:35.4010] - DEBUG - [Save session: 16] Started, operation: autosaveInPlaceOperation
+[2020-03-19 18:26:35.4010] - DEBUG - [Save session: 16] Before container.writeChanges
+[2020-03-19 18:26:35.4010] - DEBUG - [Save session: 16] Before waitUsingRecursiveRunLoop
+[2020-03-19 18:26:35.4670] - DEBUG - [Save session: 16] Completed container.writeChanges
+[2020-03-19 18:26:35.4680] - DEBUG - [Save session: 16] Completed waitUsingRecursiveRunLoop
+[2020-03-19 18:26:35.9510] - DEBUG - [Save session: 16] Completed super.save
+[2020-03-19 18:26:36.6850] - DEBUG - [Save session: 17] Started, operation: autosaveInPlaceOperation
+[2020-03-19 18:26:36.6850] - DEBUG - [Save session: 17] Before container.writeChanges
+[2020-03-19 18:26:36.6850] - DEBUG - [Save session: 17] Before waitUsingRecursiveRunLoop
+[2020-03-19 18:26:36.7470] - DEBUG - [Save session: 17] Completed container.writeChanges
+[2020-03-19 18:26:36.7470] - DEBUG - [Save session: 17] Completed waitUsingRecursiveRunLoop
+[2020-03-19 18:26:36.7520] - DEBUG - [Save session: 17] Completed super.save
+[2020-03-19 18:27:21.9910] - INFO - Backing up to /Users/pascalulrich/Library/Mobile Documents/com~apple~CloudDocs/BTS/Interface Development/git-folder/newrepofolder/newframerfile12.framerfx/.backups/2020-03-19 18.27.21.zip
