@@ -16,3 +16,33 @@
 [2020-03-19 17:37:24.1020] - INFO - Installing dependencies…
 [2020-03-19 17:37:24.1380] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
 [2020-03-19 17:37:24.5400] - INFO - Installing dependencies - DONE. Took 438ms
+[2020-03-19 17:46:03.0670] - INFO - GET 200 /.cache/images/4096/onPdf8gFTWdmYbbLsdB37n4scM.jpg 1.84 MB (21ms)
+[2020-03-19 17:46:03.0780] - INFO - GET 200 /.cache/images/512/onPdf8gFTWdmYbbLsdB37n4scM.jpg 1.84 MB (3ms)
+[2020-03-19 17:46:04.0250] - INFO - GET 200 /design/images/onPdf8gFTWdmYbbLsdB37n4scM.jpg 1.84 MB (3ms)
+[2020-03-19 17:46:09.0100] - DEBUG - [Save session: 5] Started, operation: autosaveInPlaceOperation
+[2020-03-19 17:46:09.0100] - DEBUG - [Save session: 5] Before container.writeChanges
+[2020-03-19 17:46:09.0100] - DEBUG - [Save session: 5] Before waitUsingRecursiveRunLoop
+[2020-03-19 17:46:09.0880] - DEBUG - [Save session: 5] Completed container.writeChanges
+[2020-03-19 17:46:09.0880] - DEBUG - [Save session: 5] Completed waitUsingRecursiveRunLoop
+[2020-03-19 17:46:09.0960] - DEBUG - [Save session: 5] Completed super.save
+[2020-03-19 17:47:13.8990] - DEBUG - [Save session: 6] Started, operation: saveOperation
+[2020-03-19 17:47:13.8990] - DEBUG - [Save session: 6] Before container.writeChanges
+[2020-03-19 17:47:13.9000] - DEBUG - [Save session: 6] Before waitUsingRecursiveRunLoop
+[2020-03-19 17:47:13.9670] - DEBUG - [Save session: 6] Completed container.writeChanges
+[2020-03-19 17:47:13.9680] - DEBUG - [Save session: 6] Completed waitUsingRecursiveRunLoop
+[2020-03-19 17:47:13.9710] - INFO - Marking changed: false
+[2020-03-19 17:47:13.9820] - DEBUG - [Save session: 6] Completed super.save
+[2020-03-19 17:47:20.9510] - INFO - Backing up to /Users/pascalulrich/Library/Mobile Documents/com~apple~CloudDocs/BTS/Interface Development/git-folder/newrepofolder/newframerfile12.framerfx/.backups/2020-03-19 17.47.20.zip
+[2020-03-19 17:48:44.8110] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “onPdf8gFTWdmYbbLsdB37n4scM.jpg” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/pascalulrich/Library/Mobile Documents/com~apple~CloudDocs/BTS/Interface Development/git-folder/newrepofolder/newframerfile12.framerfx/.cache/images/512/onPdf8gFTWdmYbbLsdB37n4scM.jpg, NSUnderlyingError=0x6000026223d0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2020-03-19 17:48:44.8110] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “onPdf8gFTWdmYbbLsdB37n4scM.jpg” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/pascalulrich/Library/Mobile Documents/com~apple~CloudDocs/BTS/Interface Development/git-folder/newrepofolder/newframerfile12.framerfx/.cache/images/1024/onPdf8gFTWdmYbbLsdB37n4scM.jpg, NSUnderlyingError=0x600002623c90 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2020-03-19 17:48:44.8110] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “onPdf8gFTWdmYbbLsdB37n4scM.jpg” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/pascalulrich/Library/Mobile Documents/com~apple~CloudDocs/BTS/Interface Development/git-folder/newrepofolder/newframerfile12.framerfx/.cache/images/2048/onPdf8gFTWdmYbbLsdB37n4scM.jpg, NSUnderlyingError=0x600002622e20 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2020-03-19 17:48:44.8120] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “onPdf8gFTWdmYbbLsdB37n4scM.jpg” couldn’t be saved in the folder “4096” because a file with the same name already exists." UserInfo={NSFilePath=/Users/pascalulrich/Library/Mobile Documents/com~apple~CloudDocs/BTS/Interface Development/git-folder/newrepofolder/newframerfile12.framerfx/.cache/images/4096/onPdf8gFTWdmYbbLsdB37n4scM.jpg, NSUnderlyingError=0x600002623960 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2020-03-19 17:48:49.5470] - INFO - GET 200 /.cache/images/2048/onPdf8gFTWdmYbbLsdB37n4scM.jpg 675 kB (2ms)
+[2020-03-19 17:48:50.5750] - INFO - GET 200 /.cache/images/1024/onPdf8gFTWdmYbbLsdB37n4scM.jpg 203 kB (2ms)
+[2020-03-19 17:50:23.9240] - DEBUG - [Save session: 7] Started, operation: saveOperation
+[2020-03-19 17:50:23.9240] - DEBUG - [Save session: 7] Before container.writeChanges
+[2020-03-19 17:50:23.9240] - DEBUG - [Save session: 7] Before waitUsingRecursiveRunLoop
+[2020-03-19 17:50:23.9930] - DEBUG - [Save session: 7] Completed container.writeChanges
+[2020-03-19 17:50:23.9930] - DEBUG - [Save session: 7] Completed waitUsingRecursiveRunLoop
+[2020-03-19 17:50:23.9960] - INFO - Marking changed: false
+[2020-03-19 17:50:24.0090] - DEBUG - [Save session: 7] Completed super.save
