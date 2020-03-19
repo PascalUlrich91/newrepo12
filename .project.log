@@ -1,0 +1,18 @@
+[2020-03-19 17:37:20.6660] - INFO - Reading from /Users/pascalulrich/Library/Mobile Documents/com~apple~CloudDocs/BTS/Interface Development/git-folder/newrepofolder/newframerfile12.framerfx (origin); preserving existing contents of project folder: true
+[2020-03-19 17:37:20.6680] - INFO - Done reading
+[2020-03-19 17:37:20.6690] - INFO - Marking changed: false
+[2020-03-19 17:37:20.6710] - INFO - Marking changed: false
+[2020-03-19 17:37:20.6850] - DEBUG - [Save session: 4] Completed super.save
+[2020-03-19 17:37:20.7030] - INFO - Marking changed: false
+[2020-03-19 17:37:20.7190] - ERROR - Unhandled Rejection at: Promise Promise {
+[2020-03-19 17:37:20.7190] - ERROR -   <rejected> Error: Error updating package.json Error: ENOENT: no such file or directory, open '/Users/pascalulrich/Library/Mobile Documents/com~apple~CloudDocs/BTS/Interface Development/git-folder/newrepofolder/newframerfile12.framerfx/package.json'
+[2020-03-19 17:37:20.7190] - ERROR -       at Project.<anonymous> (/Applications/Framer X.app/Contents/Resources/Server/lib/project.js:1208:23)
+[2020-03-19 17:37:20.7190] - ERROR -       at Generator.throw (<anonymous>)
+[2020-03-19 17:37:20.7190] - ERROR -       at rejected (/Applications/Framer X.app/Contents/Resources/Server/lib/project.js:6:65) } reason: Error: Error updating package.json Error: ENOENT: no such file or directory, open '/Users/pascalulrich/Library/Mobile Documents/com~apple~CloudDocs/BTS/Interface Development/git-folder/newrepofolder/newframerfile12.framerfx/package.json'
+[2020-03-19 17:37:20.7190] - ERROR -     at Project.<anonymous> (/Applications/Framer X.app/Contents/Resources/Server/lib/project.js:1208:23)
+[2020-03-19 17:37:20.7190] - ERROR -     at Generator.throw (<anonymous>)
+[2020-03-19 17:37:20.7190] - ERROR -     at rejected (/Applications/Framer X.app/Contents/Resources/Server/lib/project.js:6:65)
+[2020-03-19 17:37:20.7790] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-03-19 17:37:24.1020] - INFO - Installing dependencies…
+[2020-03-19 17:37:24.1380] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-03-19 17:37:24.5400] - INFO - Installing dependencies - DONE. Took 438ms

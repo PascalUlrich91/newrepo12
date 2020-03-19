@@ -1,0 +1,8 @@
+{
+	"framer": {
+		"id": "0073aa5b-224b-4414-9fc1-e8599c59bc10"
+	},
+	"peerDependencies": {
+		"framer": "^1"
+	}
+}
